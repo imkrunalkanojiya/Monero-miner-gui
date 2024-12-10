@@ -6,7 +6,6 @@ I was developed this project for fun and learning perspective, Also for open-sou
 
 - I Used Simple JFrame with FlowLayout for Dividing user and log part.
 - Plugin in Play code for Eclipse Users :D
-- 
 
 ### Example Output
 
