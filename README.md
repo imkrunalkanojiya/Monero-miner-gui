@@ -15,4 +15,4 @@ I was developed this project for fun and learning perspective, Also for open-sou
 
 ## Note
 
-This Monero Miner is MacOS Specific. In future i will share build for windows in Linux.
+This Monero Miner is MacOS Specific. In future i will share build for windows and Linux.
